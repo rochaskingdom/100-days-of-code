@@ -5,7 +5,7 @@
 
 **Today's Progress**: I just reviewed HTML / HTML 5 and basic CSS, remembering, nothing too difficult
 
-### Day 2: November 06, 2018,
+### Day 2: November 06, 2018
 
 
 **Today's Progress**: I reviewed some in CSS stuff and finished Applied Visual Design. 
