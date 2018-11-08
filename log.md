@@ -12,3 +12,7 @@
 The content itself was very interesting, it helped a lot!!
 
 
+### Day 3: November 07, 2018
+
+
+**Today's Progress**: Today I finished Applied Accessibility, remembering some concepts to leave the semantic code!
