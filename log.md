@@ -18,7 +18,13 @@ The content itself was very interesting, it helped a lot!!
 **Today's Progress**: Today I finished Applied Accessibility, remembering some concepts to leave the semantic code!
 
 
-### Day 3: November 08, 2018
+### Day 4: November 08, 2018
 
 
 **Today's Progress**: I finished Responsive Web Design Principles and started CSS Flexbox, gaving to starting projects!
+
+
+### Day 5: November 09, 2018
+
+
+**Today's Progress**: I finished CSS Grid and started the first Responsive Web Design Projects project - Build a Tribute Page
