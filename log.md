@@ -28,3 +28,9 @@ The content itself was very interesting, it helped a lot!!
 
 
 **Today's Progress**: I finished CSS Grid and started the first Responsive Web Design Projects project - Build a Tribute Page
+
+
+### Day 6: November 10, 2018
+
+
+**Today's Progress**: I made my first project Responsive Web Design Projects - Build a tribute page, it's simple kk https://github.com/rochaskingdom/tributeopage
