@@ -34,3 +34,9 @@ The content itself was very interesting, it helped a lot!!
 
 
 **Today's Progress**: I made my first project Responsive Web Design Projects - Build a tribute page, it's simple kk https://github.com/rochaskingdom/tributeopage
+
+
+### Day 7: November 11, 2018
+
+
+**Today's Progress**: I started a research form project, breaking my head with CSS, I have not finished yet!!
