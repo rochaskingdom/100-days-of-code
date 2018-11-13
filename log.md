@@ -46,3 +46,9 @@ The content itself was very interesting, it helped a lot!!
 
 
 **Today's Progress**: I worked a bit on the 2nd Responsive Web Design project, so I started with Javascript Algorithms Certification and Data Structures. For now Basic Javascript, advancing more every day!
+
+
+### Day 9: November 13, 2018
+
+
+**Today's Progress**: I have finished my second project Responsive Web Design - Build a Search Form, there are still three projects left to get the certificate! The project is published in my GitHub profile!
