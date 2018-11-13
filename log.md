@@ -40,3 +40,9 @@ The content itself was very interesting, it helped a lot!!
 
 
 **Today's Progress**: I started a research form project, breaking my head with CSS, I have not finished yet!!
+
+
+### Day 8: November 12, 2018
+
+
+**Today's Progress**: I worked a bit on the second Responsive Web Design project, so I started with Javascript Algorithms Certification and Data Structures. For now Basic Javascript, advancing more every day!
