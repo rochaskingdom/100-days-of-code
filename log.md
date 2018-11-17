@@ -52,3 +52,9 @@ The content itself was very interesting, it helped a lot!!
 
 
 **Today's Progress**: I have finished my second project Responsive Web Design - Build a Search Form, there are still three projects left to get the certificate! The project is published in my GitHub profile!
+
+
+### Day 10: November 14, 2018
+
+
+**Today's Progress**: I started a new project for a workshop website, it's very raw yet.
