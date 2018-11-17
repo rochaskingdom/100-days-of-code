@@ -58,3 +58,15 @@ The content itself was very interesting, it helped a lot!!
 
 
 **Today's Progress**: I started a new project for a workshop website, it's very raw yet.
+
+
+### Day 11: November 15, 2018
+
+
+**Today's Progress**: I advanced a little further on the workshop design and solved some college problems!
+
+
+### Day 12: November 16, 2018
+
+
+**Today's Progress**: I worked more on the workshop project, it's almost ready, tomorrow will be finalized!
