@@ -70,3 +70,21 @@ The content itself was very interesting, it helped a lot!!
 
 
 **Today's Progress**: I worked more on the workshop project, it's almost ready, tomorrow will be finalized!
+
+
+### Day 13: November 17, 2018
+
+
+**Today's Progress**: I finished the workshop project, it was posted on my GitHub profile!
+
+
+### Day 14: November 18, 2018
+
+
+**Today's Progress**: I started a job in college, I created a database in MySQL Workbench, simulating the Brazilian post office!
+
+
+### Day 15: November 19, 2018
+
+
+**Today's Progress**: After creating the database project in MySQL I replicated the project to a non-relational database, MongoDB!
