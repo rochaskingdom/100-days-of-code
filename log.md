@@ -88,3 +88,9 @@ The content itself was very interesting, it helped a lot!!
 
 
 **Today's Progress**: After creating the database project in MySQL I replicated the project to a non-relational database, MongoDB!
+
+
+### Day 16: November 20, 2018
+
+
+**Today's Progress**: Today I just messed with MongoDB, and I used an IDE to better see how it works without using the terminal!!
