@@ -94,3 +94,9 @@ The content itself was very interesting, it helped a lot!!
 
 
 **Today's Progress**: Today I just messed with MongoDB, and I used an IDE to better see how it works without using the terminal!!
+
+
+### Day 17: November 21, 2018
+
+
+**Today's Progress**: Today I did not produce anything, I just studied a college subject, project management. Very boring exam week!!
