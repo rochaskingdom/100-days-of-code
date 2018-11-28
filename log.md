@@ -100,3 +100,38 @@ The content itself was very interesting, it helped a lot!!
 
 
 **Today's Progress**: Today I did not produce anything, I just studied a college subject, project management. Very boring exam week!!
+
+
+### Day 18: November 22, 2018
+
+
+**Today's Progress**: I did not produce anything, just studying for exam week!!
+
+### Day 19: November 23, 2018
+
+
+**Today's Progress**: I did not produce anything, just studying for exam week!!
+
+
+### Day 20: November 24, 2018
+
+
+**Today's Progress**: I did not produce anything, just studying for exam week!!
+
+
+### Day 21: November 25, 2018
+
+
+**Today's Progress**: I did not produce anything, just studying for exam week!!
+
+
+### Day 22: November 26, 2018
+
+
+**Today's Progress**: I did not produce anything, just studying for exam week!!
+
+
+### Day 23: November 27, 2018
+
+
+**Today's Progress**: I did not produce anything, just studying for exam week!!
